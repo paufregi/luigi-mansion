@@ -9,7 +9,7 @@ Collection of experiments with [luigi](https://luigi.readthedocs.io/en/stable/in
 
 
 ## Requirements
- - [pipenv](https://docs.pipenv.org/en/latest/)
+ - [pipenv](https://pipenv.kennethreitz.org/en/latest/)
  
  
 ## Setup
