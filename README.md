@@ -5,6 +5,7 @@ Collection of experiments with [luigi](https://luigi.readthedocs.io/en/stable/in
 
 ## Experiments
  - [adventure](adventure/README.md)
+ - [scheduler](scheduler/README.md)
 
 
 ## Requirements
